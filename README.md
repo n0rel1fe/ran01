@@ -1,5 +1,5 @@
-C:/User 경로 기준으로 탐색
-'Documents', 'Desktop', 'Downloads' 대상 디렉토리
+C:/User 경로 기준으로 탐색, 
+대상 디렉토리는 'Documents', 'Desktop', 'Downloads'
 
 /User/<사용자이름>
   - 사용자이름이 한국어일 경우, 경로로 호출하지 못하는 문제
